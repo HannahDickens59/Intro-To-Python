@@ -1,6 +1,6 @@
 # Loops - allows us to execute a block of code repeatedly. They help automate repetitive tasks & mkae programs more effecient
 
-# ForLoop - used to iterate over a sequence such as a lost, tuple, string or range, and perform an action for each item in the sequence.
+# ForLoop - used to iterate over a sequence such as a list, tuple, string or range, and perform an action for each item in the sequence.
 
 # fruits = ["apple", "banana", "naartjie", "cherry"]
 
